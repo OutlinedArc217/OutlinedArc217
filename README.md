@@ -28,7 +28,7 @@
 ---
 
 ### 💻 技能
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&logoWidth=20)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-5391FE?style=flat&logo=gnu-bash&logoColor=white)
