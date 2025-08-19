@@ -23,7 +23,7 @@
 ---
 
 ### 🏆 GitHub 成就奖杯
-[![trophy](https://github-profile-trophy.vercel.app/?username=OutlinedArc217&theme=flat&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=OutlinedArc217&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
