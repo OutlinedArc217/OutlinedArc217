@@ -43,6 +43,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=500&lines=🚀+所有奇怪想法的集合站！" alt="Typing SVG" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=%E6%89%80%E6%9C%89%E5%A5%87%E6%80%AA%E6%83%B3%E6%B3%95%E7%9A%84%E9%9B%86%E5%90%88%E7%AB%99%EF%BC%81;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E8%AE%BF+blog.mctsw.top" alt="Typing SVG" />
 <br/><br/>
 
 <a href="https://blog.mctsw.top">
