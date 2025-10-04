@@ -35,21 +35,29 @@
 
 ---
 
-### ⚛️ 灵质空间
+### ⚛ 🚞🚃🚃🚃💨
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=🤝+友情链接&fontSize=40&fontColor=fff&animation=twinkling" />
 
 <table>
   <tr>
-    <td align="center" width="220" style="padding:10px;">
-      <a href="https://blog.mctsw.top" target="_blank">
-        <img src="https://files.mctsw.top/37/blog.svg" alt="三七博客" width="100" style="border-radius:15px;"/>
-        <br>
-        <strong>三七博客</strong>
-        <br>
-        <span style="color: #666;">所有奇怪想法的集合站！</span>
+    <td align="center" width="450" style="padding: 20px;">
+      <a href="https://blog.mctsw.top">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ghost&repo=blog&title_color=fff&icon_color=F75C7E&text_color=9f9f9f&bg_color=0d1117&hide_border=true&show_owner=false&description_lines_count=2&custom_title=三七博客&description=所有奇怪想法的集合站！%20%7C%20blog.mctsw.top" />
+      </a>
+      <br/><br/>
+      <a href="https://blog.mctsw.top">
+        <img src="https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=友链&query=name&url=https://api.github.com/users/github&style=for-the-badge&logo=blogger&logoColor=white&labelColor=282c34&suffix=+三七博客" alt="Friend Link"/>
       </a>
     </td>
   </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+
+</div>
 
 ---
 
