@@ -37,25 +37,18 @@
 
 ### ⚛ 🚞🚃🚃🚃💨
 
-<div align="center">
+<a href="https://blog.mctsw.top">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=三七博客&fontSize=60&fontColor=fff&animation=blinking&desc=blog.mctsw.top&descSize=20&descAlignY=70" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=🤝+友情链接&fontSize=40&fontColor=fff&animation=twinkling" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=500&lines=🚀+所有奇怪想法的集合站！" alt="Typing SVG" />
 
-<table>
-  <tr>
-    <td align="center" width="450" style="padding: 20px;">
-      <a href="https://blog.mctsw.top">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ghost&repo=blog&title_color=fff&icon_color=F75C7E&text_color=9f9f9f&bg_color=0d1117&hide_border=true&show_owner=false&description_lines_count=2&custom_title=三七博客&description=所有奇怪想法的集合站！%20%7C%20blog.mctsw.top" />
-      </a>
-      <br/><br/>
-      <a href="https://blog.mctsw.top">
-        <img src="https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=友链&query=name&url=https://api.github.com/users/github&style=for-the-badge&logo=blogger&logoColor=white&labelColor=282c34&suffix=+三七博客" alt="Friend Link"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+<a href="https://blog.mctsw.top">
+  <img src="https://img.shields.io/badge/🌐_立即访问-FF6B6B?style=for-the-badge&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/博客-blog.mctsw.top-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" />
 
 </div>
 
