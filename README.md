@@ -35,36 +35,21 @@
 
 ---
 
-### 🔹⚛️🔹 灵质空间
+### ⚛️ 灵质空间
 
-<div align="left">
-
-<a href="https://blog.mctsw.top" target="_blank" style="text-decoration: none;">
-  <div style="
-    display: inline-block;
-    width: 200px;
-    border: 1px solid #e1e4e8;
-    border-radius: 10px;
-    padding: 10px;
-    margin: 5px;
-    text-align: center;
-    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
-    transition: all 0.2s ease-in-out;
-  " class="card">
-    <img src="https://files.mctsw.top/37/blog.svg" alt="三七博客" width="100" />
-    <h4 style="margin: 10px 0 5px 0; color: #333;">三七博客</h4>
-    <p style="font-size: 12px; color: #666;">所有奇怪想法的集合站！</p>
-  </div>
-</a>
-
-</div>
-
-<style>
-.card:hover {
-  transform: scale(1.05);
-  box-shadow: 5px 5px 15px rgba(0,0,0,0.2);
-}
-</style>
+<table>
+  <tr>
+    <td align="center" width="220" style="padding:10px;">
+      <a href="https://blog.mctsw.top" target="_blank">
+        <img src="https://files.mctsw.top/37/blog.svg" alt="三七博客" width="100" style="border-radius:15px;"/>
+        <br>
+        <strong>三七博客</strong>
+        <br>
+        <span style="color: #666;">所有奇怪想法的集合站！</span>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
