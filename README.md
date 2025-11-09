@@ -1,17 +1,18 @@
 ## Hi there 👋
 
+<div align="center">
 
+<img alt="🦑" width="400px" src="https://github.com/OutlinedArc217/OutlinedArc217/blob/main/metrics.svg">
 
-<img alt="🦑" align="left" width="400px" src="https://github.com/OutlinedArc217/OutlinedArc217/blob/main/metrics.svg">
+<img alt="🦑" width="400px" src="https://github.com/OutlinedArc217/OutlinedArc217/blob/main/metrics.additional.svg">
 
-<img alt="🦑" align="left" width="400px" src="https://github.com/OutlinedArc217/OutlinedArc217/blob/main/metrics.additional.svg">
-
-
-
+</div>
 
 ---
 
-### 🚞友情链接🚃💨
+### 🚞 友情链接 🚃💨
+
+<div align="center">
 
 <a href="https://blog.mctsw.top">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=三七博客&fontSize=60&fontColor=fff&animation=blinking&desc=blog.mctsw.top&descSize=20&descAlignY=70" />
