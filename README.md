@@ -10,6 +10,10 @@
 
 ---
 
+<img alt="🦑" align="left" width="400px" src="https://github.com/OutlinedArc217/OutlinedArc217/blob/main/metrics.svg">
+
+<img alt="🦑" align="left" width="400px" src="https://github.com/OutlinedArc217/OutlinedArc217/blob/main/metrics.additional.svg">
+
 ### 🐍 贪吃蛇贡献图
 ![Snake animation](https://raw.githubusercontent.com/OutlinedArc217/OutlinedArc217/gh-pages/snake.svg)
 
