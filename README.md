@@ -1,6 +1,6 @@
-<p align="center">
-  <img alt="Metrics" height="200" src="https://github.com/OutlinedArc217/OutlinedArc217/blob/main/metrics.svg">
-  <img alt="Metrics Additional" height="200" src="https://github.com/OutlinedArc217/OutlinedArc217/blob/main/metrics.additional.svg">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img alt="Metrics" src="https://github.com/OutlinedArc217/OutlinedArc217/blob/main/metrics.svg" width="49%">
+  <img alt="Metrics Additional" src="https://github.com/OutlinedArc217/OutlinedArc217/blob/main/metrics.additional.svg" width="49%">
 </p>
 
 ---
