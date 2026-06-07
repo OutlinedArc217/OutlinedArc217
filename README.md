@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://blog.mctsw.top">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=三七博客&fontSize=60&fontColor=fff&animation=blinking&desc=blog.mctsw.top&descSize=20&descAlignY=70" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=木头堆栈&fontSize=60&fontColor=fff&animation=blinking&desc=https://blog.kamt.cn&descSize=20&descAlignY=70" />
   </a>
 </p>
 
