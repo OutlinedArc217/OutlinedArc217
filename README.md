@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://blog.mctsw.top">
+  <a href="https://blog.kamt.cn">
     <img src="https://img.shields.io/badge/🌐_立即访问-FF6B6B?style=for-the-badge&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/博客-blog.kamt.cn-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" />
